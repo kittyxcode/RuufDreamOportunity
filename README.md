@@ -1,12 +1,13 @@
 # RuufDreamOportunity
 
-Este proyecto se creo para una postulacion soña.
+Este proyecto se creó para una postulación soñada.
 
-Consiste en 3 archivos js cada uno con una funcion para calcular el numero de paneles solares que caen en un area determinada
--RectangularRoof.js calcula cuantos paneles solares caen en un clasico techo rectangular.
--TriangularRoof.js calcula cuantos paneles solares caen en un techo triangular.
--OverlappingRoof.js calcula cuantos paneles solares caen en un techo rectangular superposicionado.
+Consiste en 3 archivos JS, cada uno con una función para calcular el número de paneles solares que caben en un área determinada:
+- `RectangularRoof.js` calcula cuántos paneles solares caben en un techo rectangular clásico.
+- `TriangularRoof.js` calcula cuántos paneles solares caben en un techo triangular.
+- `OverlappingRoof.js` calcula cuántos paneles solares caben en un techo rectangular superpuesto.
 
-Adicional a eso se agregaron 3 archivos con los mismos nombres pero con terminacion test.js para los test
+Adicionalmente, se agregaron 3 archivos con los mismos nombres pero con la extensión "test.js" para las pruebas.
 
-Cualquier duda no duden en contactarme, saludos.
+Cualquier duda, no duden en contactarme. Saludos.
+
