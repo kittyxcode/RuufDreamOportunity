@@ -1,7 +1,7 @@
-function triangularRoof(xPanel, yPanel, baseTriangulo, alturaTriangulo) {
-  const areaTriangulo = (baseTriangulo * alturaTriangulo) / 2;
+function triangularRoof(xPanel, yPanel, baseTriangule, alturaTriangule) {
+  const areaTriangule = (baseTriangule * alturaTriangule) / 2;
   const areaPanel = xPanel * yPanel;
-  return Math.floor(areaTriangulo / areaPanel);
+  return Math.floor(areaTriangule / areaPanel);
 }
 
 module.exports = triangularRoof;
