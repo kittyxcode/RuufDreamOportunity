@@ -1,10 +1,7 @@
 function rectangularRoof(xPanel, yPanel, xRoof, yRoof) {
-  if (xPanel > xRoof || yPanel > yRoof) {
-    return 0;
-  }
-  const large = xRoof / xPanel;
-  const width = yRoof / yPanel;
-  return Math.floor(large * width);
+  let x = xRoof / xPanel;
+  let y = Math.floor(yRoof / yPanel);
+  return Math.floor(x * y);
 }
 
 module.exports = rectangularRoof;
