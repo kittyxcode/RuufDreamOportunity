@@ -24,7 +24,7 @@ test('Paneles 2x1 en techo rectangular de 21x3 => 31', () => {
   expect(rectangularRoof(2, 1, 21, 3)).toBe(31);
 });
 
-test('Paneles 2x1 en techo rectangular de 21x4 => 40', () => {
+test('Paneles 2x1 en techo rectangular de 20x4 => 40', () => {
   expect(rectangularRoof(2, 1, 20, 4)).toBe(40);
 });
 
